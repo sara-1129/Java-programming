@@ -1,6 +1,6 @@
 package JavaBasics;
 
-public class switchs {
+public class Switchs {
     public static void main(String[] args) {
         //switch case
         int day = 3;

@@ -1,6 +1,6 @@
 package JavaBasics;
 
-public class maths {
+public class Maths {
     public static void main(String[] args) {
         //Maths
         //min

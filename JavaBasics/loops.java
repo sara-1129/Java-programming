@@ -1,6 +1,6 @@
 package JavaBasics;
 
-public class loops {
+public class Loops {
     public static void main(String[] args) {
         // for loop
         

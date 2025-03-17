@@ -1,6 +1,6 @@
 package JavaBasics;
 
-public class casting {
+public class Casting {
     public static void main(String[] args) {
         //casting
         double price = 100;

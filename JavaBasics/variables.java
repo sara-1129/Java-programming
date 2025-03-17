@@ -1,6 +1,6 @@
 package JavaBasics;
 
-public class variables {
+public class Variables {
     public static void main(String[] args){
         String name ="Aman";
         //int age = 13;

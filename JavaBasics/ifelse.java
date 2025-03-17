@@ -1,6 +1,6 @@
 package JavaBasics;
 
-public class ifelse {
+public class Ifelse {
     public static void main(String[] args) {
         //conditonal statements 
         //ifelse

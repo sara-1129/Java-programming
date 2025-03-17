@@ -1,7 +1,7 @@
 package JavaBasics;
 import java.util.Arrays;
 
-public class arrays {
+public class Array {
     public static void main(String[] args) {
         
     //stores data at contigious memory locations

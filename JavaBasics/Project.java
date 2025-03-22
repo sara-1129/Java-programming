@@ -12,8 +12,12 @@ public class Project {
             num = sc.nextInt();
             if (num == randomNo) {
                 System.out.println("Your guess is correct!");
-            } else {
-                System.out.println("Your guess is wrong.Try again!");
+            } else if (num > randomNo) {
+                System.out.println("Your guess is wrong.Try again with a smaller number!");
+                System.out.println("Enter -1 to stop guessing");
+            }
+            else {
+                System.out.println("Your guess is wrong.Try again with a larger number!");
                 System.out.println("Enter -1 to stop guessing");
             }
         }
